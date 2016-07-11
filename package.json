@@ -1,0 +1,28 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "A chat for Growthtroop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/animista01/chat-growthtroop.git"
+  },
+  "keywords": [
+    "chat",
+    "ozone",
+    "growthtroop"
+  ],
+  "author": "Bryan Villafañe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/animista01/chat-growthtroop/issues"
+  },
+  "homepage": "https://github.com/animista01/chat-growthtroop#readme",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "socket.io": "^1.4.6"
+  }
+}
